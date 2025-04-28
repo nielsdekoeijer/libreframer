@@ -1,3 +1,5 @@
+Not doing this
+
 # libreframer
 Simple C++ API that solves the buffer reframing problem: 
 - Imagine a process A generating buffers of size variable size N an algorithm B consuming buffers of fixed size M. 
